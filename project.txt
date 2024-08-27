@@ -1,2 +1,5 @@
 hi this is Arunachalam
 from datamites vadapalani
+
+def fun(x,y):
+	return x+y
